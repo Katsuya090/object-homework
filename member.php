@@ -1,9 +1,9 @@
 <?php
 
 // DB接続に必要な情報
-define('DSN','mysql:host=localhost;dbname=member1;charset=utf8');
-define('USER','root');
-define('PASSWORD','root');
+// define('DSN','mysql:host=localhost;dbname=member1;charset=utf8');
+// define('USER','root');
+// define('PASSWORD','root');
 
 
 
